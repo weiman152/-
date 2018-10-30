@@ -1,0 +1,6 @@
+framework module Pods_GCDGroup {
+  umbrella header "Pods-GCDGroup-umbrella.h"
+
+  export *
+  module * { export * }
+}
